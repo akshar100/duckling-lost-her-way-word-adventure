@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </radialGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#bgGrad)"/>
+  <!-- Duck body -->
+  <circle cx="96" cy="116" r="44" fill="#fbbf24"/>
+  <!-- Duck head -->
+  <circle cx="82" cy="74" r="30" fill="#fde047"/>
+  <!-- Beak -->
+  <path d="M54 74 Q40 78 52 86 Z" fill="#f97316"/>
+  <!-- Eye -->
+  <circle cx="74" cy="68" r="5" fill="#1e293b"/>
+  <circle cx="76" cy="66" r="1.5" fill="#ffffff"/>
+  <!-- Wing -->
+  <path d="M90 108 C108 108 126 122 118 132 C106 138 92 128 90 108 Z" fill="#f59e0b"/>
+  <!-- Cheeks -->
+  <circle cx="80" cy="80" r="5" fill="#f87171" opacity="0.6"/>
+</svg>

@@ -1,24 +1,16 @@
 {
-  "name": "Duckling Lost Her Way - Word Adventure",
-  "short_name": "Duckling Los",
-  "start_url": "./index.html",
-  "scope": "./",
+  "name": "Duckling Lost Her Way",
+  "short_name": "Duckling",
+  "description": "A 100-hurdle emoji spelling adventure to help little duckling find Mama Duck.",
+  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#0D1117",
-  "theme_color": "#0D1117",
-  "description": "Duckling Lost Her Way - Word Adventure — Progressive Web App hosted on GitHub Pages",
+  "background_color": "#ecfdf5",
+  "theme_color": "#f59e0b",
   "icons": [
     {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }
